@@ -1,40 +1,40 @@
 /* The title text for the basal rate schedule */
-"Basal Rates" = "Basal Rates";
+"Basal Rates" = "معاملات الضخ المستمر";
 
 /* The title of the carb ratios schedule screen */
-"Carb Ratios" = "Carb Ratios";
+"Carb Ratios" = "معاملات الكارب";
 
 /* The title for the cell navigating to the carbs screen */
-"Carbs" = "Carbs";
+"Carbs" = "الكارب";
 
 /* The title text for the glucose correction range schedule */
-"Correction Range" = "Correction Range";
+"Correction Range" = "نطاق التصحيح";
 
 /* The title for the cell displaying diagnostic data */
-"Diagnostic" = "Diagnostic";
+"Diagnostic" = "التشخيص";
 
 /* The placeholder text instructing users how to enter a pump ID */
-"Enter the 6-digit pump ID" = "Enter the 6-digit pump ID";
+"Enter the 6-digit pump ID" = "أدخل رمز تعريف المضخة المكون من 6 خانات";
 
 /* The title for the cell displaying data generation */
-"Generate Data" = "Generate Data";
+"Generate Data" = "توليد البيانات";
 
 /* The title of the insulin sensitivity schedule screen
    The title text for the insulin sensitivity schedule */
-"Insulin Sensitivity" = "Insulin Sensitivity";
+"Insulin Sensitivity" = "حساسية الأنسولين";
 
 /* The title text for the pump ID */
-"Pump ID" = "Pump ID";
+"Pump ID" = "رمز تعريف المضخة";
 
 /* The title for the cell navigating to the reservoir screen */
-"Reservoir" = "Reservoir";
+"Reservoir" = "خزان";
 
 /* Title for the cell resetting the data manager */
-"Reset" = "Reset";
+"Reset" = "إعادة ضبط";
 
 /* Title of button to sync basal profile from pump */
-"Sync With Pump" = "Sync With Pump";
+"Sync With Pump" = "مزامنة مع المضخة";
 
 /* Instructions on where to find the pump ID on a Minimed pump */
-"The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N)." = "The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N).";
+"The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N)." = "يمكن العثور على رمز تعريف المضخة مطبوعًا على الظهر أو بالقرب من الجزء السفلي من شاشة STATUS / Esc. وهو الجزء الرقمي من الرقم التسلسلي (كما هو موضح في الشكل SN أو S/N).";
 
