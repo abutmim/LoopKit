@@ -1,53 +1,53 @@
 /* Describes a certain bolus failure (1: size of the bolus in units) */
-"%1$@ U bolus failed" = "%1$@ U bolus failed";
+"%1$@ U bolus failed" = "فشل ضخ %1$@ وحدة";
 
 /* Describes an uncertain bolus failure (1: size of the bolus in units) */
-"%1$@ U bolus may not have succeeded" = "%1$@ U bolus may not have succeeded";
+"%1$@ U bolus may not have succeeded" = "ربما لم ينجح ضخ %1$@ وحدة";
 
 /* The error description describing when Health sharing was denied */
-"Authorization Denied" = "Authorization Denied";
+"Authorization Denied" = "تم رفض التفويض";
 
 /* Recovery instruction for an uncertain bolus failure */
-"Check your pump before retrying" = "Check your pump before retrying";
+"Check your pump before retrying" = "افحص المضخة قبل إعادة المحاولة";
 
 /* The description of an error returned when attempting to delete a sample not shared by the current app */
-"com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" = "Authorization Denied";
+"com.loudnate.CarbKit.deleteCarbEntryUnownedErrorDescription" = "تم رفض التفويض";
 
 /* The error recovery suggestion when attempting to delete a sample not shared by the current app */
-"com.loudnate.carbKit.sharingDeniedErrorRecoverySuggestion" = "This sample can be deleted from the Health app";
+"com.loudnate.carbKit.sharingDeniedErrorRecoverySuggestion" = "يمكن حذف هذه العينة من تطبيق صحتي";
 
 /* Generic pump error description */
-"Communication Failure" = "Communication Failure";
+"Communication Failure" = "فشل الاتصال";
 
 /* Generic pump error description */
-"Connection Failure" = "Connection Failure";
+"Connection Failure" = "فشل الارتباط";
 
 /* Generic pump error description */
-"Device Refused" = "Device Refused";
+"Device Refused" = "تم رفض الجهاز";
 
 /* Recovery suggestion for a no data error */
-"Ensure carb data exists for the specified date" = "Ensure carb data exists for the specified date";
+"Ensure carb data exists for the specified date" = "تأكد من وجود بيانات الكربوهيدرات للتاريخ المحدد";
 
 /* Glucose trend down */
-"Falling" = "Falling";
+"Falling" = "نزول";
 
 /* Glucose trend down-down */
-"Falling fast" = "Falling fast";
+"Falling fast" = "نزول سريع";
 
 /* Glucose trend down-down-down */
-"Falling very fast" = "Falling very fast";
+"Falling very fast" = "نزول سريع جداً";
 
 /* Glucose trend flat */
-"Flat" = "Flat";
+"Flat" = "مستقر";
 
 /* The short unit display string for grams per U */
 "g/U" = "g/U";
 
 /* Generic pump error description */
-"Invalid Configuration" = "Invalid Configuration";
+"Invalid Configuration" = "تكوين غير صالح";
 
 /* Recovery instruction for a certain bolus failure */
-"It is safe to retry" = "It is safe to retry";
+"It is safe to retry" = "من الآمن إعادة المحاولة";
 
 /* The short unit display string for milligrams per deciliter per U */
 "mg/dL/U" = "mg/dL/U";
@@ -59,40 +59,40 @@
 "mmol/L/U" = "mmol/L/U";
 
 /* Sensor state description for the non-valid state */
-"Needs Attention" = "Needs Attention";
+"Needs Attention" = "يرجى الانتباه";
 
 /* Describes an error for no data found in a CarbStore request */
-"No values found" = "No values found";
+"No values found" = "لم يتم العثور على قيم";
 
 /* Sensor state description for the valid state */
-"OK" = "OK";
+"OK" = "موافق";
 
 /* The error recovery suggestion when Health sharing was denied */
-"Please re-enable sharing in Health" = "Please re-enable sharing in Health";
+"Please re-enable sharing in Health" = "يرجى إعادة تمكين المشاركة في تطبيق صحتي";
 
 /* Glucose trend up */
-"Rising" = "Rising";
+"Rising" = "صعود";
 
 /* Glucose trend up-up */
-"Rising fast" = "Rising fast";
+"Rising fast" = "صعود سريع";
 
 /* Glucose trend up-up-up */
-"Rising very fast" = "Rising very fast";
+"Rising very fast" = "صعود سريع جدا";
 
 /* The short unit display string for international units of insulin */
-"U" = "U";
+"U" = "وحدة";
 
 /* The short unit display string for international units of insulin per hour */
-"U/hr" = "U/hr";
+"U/hr" = "وحدة/ساعة";
 
 /* The long unit display string for a singular international unit of insulin */
-"Unit" = "Unit";
+"Unit" = "وحدة";
 
 /* The long unit display string for a singular international unit of insulin per hour */
-"Unit/hour" = "Unit/hour";
+"Unit/hour" = "وحدة لكل ساعة";
 
 /* The long unit display string for international units of insulin */
-"Units" = "Units";
+"Units" = "وحدات";
 
 /* The long unit display string for international units of insulin per hour */
-"Units/hour" = "Units/hour";
+"Units/hour" = "وحدات لكل ساعة";
